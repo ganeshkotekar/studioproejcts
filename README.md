@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Photo Studio Website
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# durgojistudios
+Photo Studi Application 
+>>>>>>> cd055eabbd2c6983d15620535d8a47b53f00c9f4
